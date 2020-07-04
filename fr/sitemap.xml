@@ -3,73 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/fr/about/</loc>
+    <loc>https://cbyad.github.io/fr/about/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://cbyad.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/about/"
+                href="https://cbyad.github.io/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/fr/categories/</loc>
+    <loc>https://cbyad.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://cbyad.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/categories/"
+                href="https://cbyad.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/fr/</loc>
+    <loc>https://cbyad.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://cbyad.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/"
+                href="https://cbyad.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/fr/series/</loc>
+    <loc>https://cbyad.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://cbyad.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/series/"
+                href="https://cbyad.github.io/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/fr/tags/</loc>
+    <loc>https://cbyad.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://cbyad.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/tags/"
+                href="https://cbyad.github.io/fr/tags/"
                 />
   </url>
   

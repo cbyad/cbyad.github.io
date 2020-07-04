@@ -3,104 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://cbyad.github.io/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/"
+                href="https://cbyad.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://cbyad.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/creating-a-new-theme/</loc>
+    <loc>https://cbyad.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>https://cbyad.github.io/series/hugo/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://cbyad.github.io/posts/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://cbyad.github.io/series/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/series/"
+                href="https://cbyad.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://cbyad.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>https://cbyad.github.io/series/theme/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/creating-a-new-theme/</loc>
+    <loc>https://cbyad.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://cbyad.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/about/"
+                href="https://cbyad.github.io/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://cbyad.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://cbyad.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/categories/"
+                href="https://cbyad.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://cbyad.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://cbyad.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.example.com/fr/tags/"
+                href="https://cbyad.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://cbyad.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://cbyad.github.io/projects/</loc>
   </url>
   
 </urlset>

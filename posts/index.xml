@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cbyad</title>
-    <link>http://www.example.com/posts/</link>
+    <link>https://cbyad.github.io/posts/</link>
     <description>Recent content in Posts on Cbyad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cbyad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Functional Programming with TypeScript — Part 1</title>
-      <link>http://www.example.com/posts/creating-a-new-theme/</link>
+      <link>https://cbyad.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/creating-a-new-theme/</guid>
+      <guid>https://cbyad.github.io/posts/creating-a-new-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A small monad library for dart/flutter project</title>
-      <link>http://www.example.com/posts/creating-a-new-theme/</link>
+      <link>https://cbyad.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/creating-a-new-theme/</guid>
+      <guid>https://cbyad.github.io/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
