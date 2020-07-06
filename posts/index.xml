@@ -13,21 +13,21 @@
     
     <item>
       <title>Functional Programming with TypeScript — Part 1</title>
-      <link>https://cbyad.github.io/posts/creating-a-new-theme/</link>
+      <link>https://cbyad.github.io/posts/fp_ts_1_post/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cbyad.github.io/posts/creating-a-new-theme/</guid>
-      <description></description>
+      <guid>https://cbyad.github.io/posts/fp_ts_1_post/</guid>
+      <description>This article targets anyone unfamiliar with functional programming (FP) but want to learn about it from scratch. Starting FP with dedicated languages like Haskell, OCaml, Erlang or Scala can take a lot of time for a beginner. FP treats many concepts and it’s impossible to cover them all in a single blog post. But with the basics and some concepts we can considerably improve our code (elegance, conciseness, safety, robustness, maintainability and more).</description>
     </item>
     
     <item>
       <title>A small monad library for dart/flutter project</title>
-      <link>https://cbyad.github.io/posts/creating-a-new-theme/</link>
+      <link>https://cbyad.github.io/posts/dart_monad_post/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cbyad.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://cbyad.github.io/posts/dart_monad_post/</guid>
+      <description>I will introduce with simple words what monad is? and how can we use it through my library either_option in flutter project? It targets mainly readers who are unfamiliar with this concept, or who want to see how we can do it in an imperative object oriented language. We will focus on two monads: Either and Option &amp;hellip;
+[Read more]</description>
     </item>
     
   </channel>

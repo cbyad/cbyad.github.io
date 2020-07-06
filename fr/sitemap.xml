@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cbyad.github.io/fr/about/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cbyad.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cbyad.github.io/fr/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cbyad.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,6 +27,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://cbyad.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cbyad.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cbyad.github.io/fr/about/"
                 />
   </url>
   

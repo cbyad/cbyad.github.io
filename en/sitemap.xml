@@ -18,12 +18,7 @@
   </url>
   
   <url>
-    <loc>https://cbyad.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbyad.github.io/series/hugo/</loc>
+    <loc>https://cbyad.github.io/posts/fp_ts_1_post/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +28,7 @@
   </url>
   
   <url>
-    <loc>https://cbyad.github.io/series/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cbyad.github.io/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cbyad.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cbyad.github.io/series/theme/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbyad.github.io/posts/creating-a-new-theme/</loc>
+    <loc>https://cbyad.github.io/posts/dart_monad_post/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -86,6 +61,24 @@
   </url>
   
   <url>
+    <loc>https://cbyad.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cbyad.github.io/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cbyad.github.io/series/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cbyad.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,10 +90,6 @@
                 hreflang="en"
                 href="https://cbyad.github.io/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cbyad.github.io/projects/</loc>
   </url>
   
 </urlset>
