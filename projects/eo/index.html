@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="Yannick-Alain Couassi-Blé D.">
+    <meta name="description" content="[See project]
+About A small typed and safe library for error handling with functionnal programming concept in Dart and utter project (MIT licence).
+either_option is a simple library typed for easy and safe error handling with functional programming style in Dart. It aims to allow flutter/dart developpers to use the 2 most popular patterns and abstractions : Either and Option, mainly used in FP language like Scala, Haskell, OCaml,&hellip;
+Installation Package link on pub either_option In your pubspec.">
+    <meta name="keywords" content="blog,developer,personal">
+
+    
+      <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A flutter/dart library : either_option"/>
+<meta name="twitter:description" content="[See project]
+About A small typed and safe library for error handling with functionnal programming concept in Dart and utter project (MIT licence).
+either_option is a simple library typed for easy and safe error handling with functional programming style in Dart. It aims to allow flutter/dart developpers to use the 2 most popular patterns and abstractions : Either and Option, mainly used in FP language like Scala, Haskell, OCaml,&hellip;
+Installation Package link on pub either_option In your pubspec."/>
+
+    <meta property="og:title" content="A flutter/dart library : either_option" />
+<meta property="og:description" content="[See project]
+About A small typed and safe library for error handling with functionnal programming concept in Dart and utter project (MIT licence).
+either_option is a simple library typed for easy and safe error handling with functional programming style in Dart. It aims to allow flutter/dart developpers to use the 2 most popular patterns and abstractions : Either and Option, mainly used in FP language like Scala, Haskell, OCaml,&hellip;
+Installation Package link on pub either_option In your pubspec." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cbyad.github.io/projects/eo/" />
+<meta property="article:published_time" content="2019-07-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-07-01T00:00:00+00:00" />
+
+
+    
+      <base href="https://cbyad.github.io/projects/eo/">
+    
+    <title>
+  A flutter/dart library : either_option · Cbyad
+</title>
+
+    
+      <link rel="canonical" href="https://cbyad.github.io/projects/eo/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://cbyad.github.io/css/coder.min.3219ef62ae52679b7a9c19043171c3cd9f523628c2a65f3ef247ee18836bc90b.css" integrity="sha256-MhnvYq5SZ5t6nBkEMXHDzZ9SNijCpl8&#43;8kfuGINryQs=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://cbyad.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://cbyad.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.72.0" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light"
+        onload=" twemoji.parse(document.body); "
+  >
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://cbyad.github.io/">
+      Cbyad
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://cbyad.github.io/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://cbyad.github.io/posts/">Posts</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://cbyad.github.io/projects/">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>A flutter/dart library : either_option</h1>
+    </header>
+
+    <p><a href="https://github.com/cbyad/either_option">[See project]</a></p>
+<h1 id="about">About</h1>
+<p>A small typed and safe library for error handling with functionnal programming concept in Dart and utter project (MIT licence).</p>
+<p><strong>either_option</strong> is a simple library typed for easy and safe error handling with functional programming style in Dart.
+It aims to allow flutter/dart developpers to use the 2 most popular patterns and abstractions :
+<code>Either</code> and <code>Option</code>, mainly used in FP language like Scala, Haskell, OCaml,&hellip;</p>
+<h1 id="installation">Installation</h1>
+<p>Package link on pub <a href="https://pub.dev/packages/either_option">either_option</a>
+In your pubspec.yaml dependencies add</p>
+<pre><code>    either_option: ^1.0.6
+</code></pre>
+<h1 id="overview">Overview</h1>
+<h2 id="either">Either</h2>
+<p><code>Either</code> Represents a value of one of two possible types.
+By convention we put missing or error value in an instance of <code>Left</code> and expected success value in an instance of <code>Right</code>.</p>
+<p>For example, we fetch an url from a repository <a href="https://github.com/cbyad/either_option/tree/master/example/lib/repository_example.dart">repository</a> to get an <em>User</em> details and use <code>Either&lt;ServerError,User&gt;</code> :</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-dart" data-lang="dart">  Future&lt;Either&lt;ServerError, User&gt;&gt; getUser(<span style="color:#fff;font-weight:bold">int</span> id) <span style="color:#fff;font-weight:bold">async</span> {
+    <span style="color:#fff;font-weight:bold">final</span> baseUrl = <span style="color:#0ff;font-weight:bold">&#34;https://fakerestapi.azurewebsites.net/api/Users/</span><span style="color:#0ff;font-weight:bold">$</span>id<span style="color:#0ff;font-weight:bold">&#34;</span>;
+
+    <span style="color:#fff;font-weight:bold">final</span> res = <span style="color:#fff;font-weight:bold">await</span> http.<span style="color:#fff;font-weight:bold">get</span>(baseUrl);
+
+    <span style="color:#fff;font-weight:bold">if</span> (res.statusCode == <span style="color:#ff0;font-weight:bold">200</span>) {
+      <span style="color:#fff;font-weight:bold">dynamic</span> body = json.decode(res.body);
+      User user = User.fromJson(body);
+      <span style="color:#fff;font-weight:bold">return</span> Right(user);
+    }
+    <span style="color:#fff;font-weight:bold">if</span> (res.statusCode == <span style="color:#ff0;font-weight:bold">404</span>)
+      <span style="color:#fff;font-weight:bold">return</span> Left(ServerError(<span style="color:#0ff;font-weight:bold">&#34;This user doesn&#39;t exist&#34;</span>));
+
+    <span style="color:#fff;font-weight:bold">return</span> Left(ServerError(<span style="color:#0ff;font-weight:bold">&#34;Unknown server error&#34;</span>));
+  }
+</code></pre></div><p>So now to consume result we can use for example <code>fold</code> method and say what to do with value :</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-dart" data-lang="dart">main() <span style="color:#fff;font-weight:bold">async</span> {
+  <span style="color:#fff;font-weight:bold">final</span> Repository repository = Repository();
+
+  <span style="color:#fff;font-weight:bold">final</span> Either&lt;ServerError, User&gt; res = <span style="color:#fff;font-weight:bold">await</span> repository.getUser(<span style="color:#ff0;font-weight:bold">3</span>);
+  <span style="color:#fff;font-weight:bold">final</span> defaultUser = User(id: <span style="color:#ff0;font-weight:bold">0</span>, username: <span style="color:#0ff;font-weight:bold">&#34;ko&#34;</span>, password: <span style="color:#0ff;font-weight:bold">&#34;ko&#34;</span>);
+  <span style="color:#fff;font-weight:bold">final</span> userName = res.fold((_) =&gt; defaultUser.username, (user) =&gt; user.username);
+  print(userName); <span style="color:#007f7f">// &#34;User 3&#34;
+</span><span style="color:#007f7f"></span>  
+<span style="color:#007f7f">//if res was a Left, print(userName) would give &#34;ko&#34;
+</span><span style="color:#007f7f"></span>}
+</code></pre></div><h2 id="option">Option</h2>
+<p><code>Option</code> Represents a value of one of two possible types.
+By convention we consider missing value as an instance of <code>None</code> and expected success value in an instance of <code>Some</code>.</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-dart" data-lang="dart">  Future&lt;Option&lt;User&gt;&gt; getUserOpt(<span style="color:#fff;font-weight:bold">int</span> id) <span style="color:#fff;font-weight:bold">async</span> {
+    <span style="color:#fff;font-weight:bold">final</span> res = <span style="color:#fff;font-weight:bold">await</span> http.<span style="color:#fff;font-weight:bold">get</span>(baseUrl);
+    <span style="color:#fff;font-weight:bold">return</span> Option.cond(
+        res.statusCode == <span style="color:#ff0;font-weight:bold">200</span>, User.fromJson(json.decode(res.body)));
+  }
+  <span style="color:#007f7f">// -----------------------------------------
+</span><span style="color:#007f7f"></span>  main() <span style="color:#fff;font-weight:bold">async</span> {
+    <span style="color:#fff;font-weight:bold">final</span> Repository repository = Repository();
+  
+    <span style="color:#fff;font-weight:bold">final</span> Option&lt;User&gt; res = <span style="color:#fff;font-weight:bold">await</span> repository.getUserOpt(<span style="color:#ff0;font-weight:bold">3</span>);
+    <span style="color:#fff;font-weight:bold">final</span> defaultUser = User(id: <span style="color:#ff0;font-weight:bold">0</span>, username: <span style="color:#0ff;font-weight:bold">&#34;ko&#34;</span>, password: <span style="color:#0ff;font-weight:bold">&#34;ko&#34;</span>);
+    <span style="color:#fff;font-weight:bold">final</span> userName = res.getOrElse(defaultUser).username;
+    print(userName); <span style="color:#007f7f">// &#34;User 3&#34;
+</span><span style="color:#007f7f"></span>
+  <span style="color:#007f7f">//if res was a None, print(userName) would give &#34;ko&#34;
+</span><span style="color:#007f7f"></span>}
+</code></pre></div><h2 id="ressources--explanation">Ressources &amp; explanation</h2>
+<p><a href="https://medium.com/@cb.yannick/a-small-monad-library-for-dart-flutter-project-e49b71205bd0?source=friends_link&amp;sk=21c7527322b281aa6e161bad27086952">Medium article</a></p>
+<h1 id="features">Features</h1>
+<p>Functions available :</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th align="center">Option</th>
+<th align="right">Either</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fold</td>
+<td align="center">yes</td>
+<td align="right">yes</td>
+</tr>
+<tr>
+<td>map</td>
+<td align="center">yes</td>
+<td align="right">yes</td>
+</tr>
+<tr>
+<td>flatMap</td>
+<td align="center">yes</td>
+<td align="right">yes</td>
+</tr>
+<tr>
+<td>getOrElse</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>orElse</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>toLeft</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>toRight</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>toEither</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Option.empty</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Option.of</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>filter</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>exists</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>contains</td>
+<td align="center">yes</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>swap</td>
+<td align="center">yes</td>
+<td align="right">yes</td>
+</tr>
+<tr>
+<td>cond</td>
+<td align="center">yes</td>
+<td align="right">yes</td>
+</tr>
+</tbody>
+</table>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>cbyad</p>
+      
+      
+        ©
+        
+        2020
+         Yannick-Alain Couassi-Blé D. 
+      
+      
+      
+        
+      
+    </section>
+  </footer>
+
+    </main>
+
+    
+
+    
+
+    <script>
+(function(f, a, t, h, o, m){
+	a[h]=a[h]||function(){
+		(a[h].q=a[h].q||[]).push(arguments)
+	};
+	o=f.createElement('script'),
+	m=f.getElementsByTagName('script')[0];
+	o.async=1; o.src=t; o.id='fathom-script';
+	m.parentNode.insertBefore(o,m)
+})(document, window, '//analytics.example.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'ABCDE');
+fathom('trackPageview');
+</script>
+
+
+  </body>
+
+</html>
