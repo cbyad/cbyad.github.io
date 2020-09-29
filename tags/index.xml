@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Cbyad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cbyad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>supervised learning</title>
+      <link>https://cbyad.github.io/tags/supervised-learning/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbyad.github.io/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised learning</title>
+      <link>https://cbyad.github.io/tags/unsupervised-learning/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbyad.github.io/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

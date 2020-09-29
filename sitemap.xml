@@ -4,16 +4,36 @@
   
   <url>
     <loc>https://cbyad.github.io/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cbyad.github.io/posts/fp_ts_1_post/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <loc>https://cbyad.github.io/posts/ml_notes_post/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cbyad.github.io/posts/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/tags/supervised-learning/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/tags/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/tags/unsupervised-learning/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbyad.github.io/posts/fp_ts_1_post/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -52,10 +72,6 @@
   
   <url>
     <loc>https://cbyad.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cbyad.github.io/tags/</loc>
   </url>
   
 </urlset>

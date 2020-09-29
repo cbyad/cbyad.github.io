@@ -6,10 +6,21 @@
     <description>Recent content on Cbyad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cbyad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning Notes</title>
+      <link>https://cbyad.github.io/posts/ml_notes_post/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbyad.github.io/posts/ml_notes_post/</guid>
+      <description>Supervised Learning Linear regression with one variable Target : From a dataset (red points), we want to find a general method to automatically get an hypothesis function ${h_\theta(x)=\theta_0+\theta_1x}$ (blue line) that fit as well our points to predict new incomming data. Solution : Find a cost function $J(\theta)$ of parameter $(\theta_0,\theta_1)$ with $\theta$ that minimise $J$
+$$ J(\theta_0,\theta_1) = \dfrac{1}{2m} \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2 $$
+where $m$ the number of training sets</description>
+    </item>
     
     <item>
       <title>Functional Programming with TypeScript — Part 1</title>
